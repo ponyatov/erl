@@ -72,6 +72,7 @@ dev:
 	git checkout $@
 	git pull -v
 	git checkout shadow -- $(MERGE)
+	$(MAKE) doc && git add doc
 
 shadow:
 	git push -v

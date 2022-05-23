@@ -19,7 +19,7 @@
     // files
     "files.exclude": {
         "**/docs/**":true,
-        "**/erl/**":true,
+        "**/ex/**":true,
         "**/.vscode/*.log":true,
         "**/__pycache__/**":true,
     },

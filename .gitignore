@@ -2,7 +2,7 @@
 *.swp
 *.log
 
-/erl/
+/ex/
 /docs/
 
 /__pycache__/
